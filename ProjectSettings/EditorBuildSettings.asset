@@ -17,10 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/BallShooter_03_Kyle.unity
     guid: 0710650d55f72bb45ac4528ee9471680
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BallShooter_04_Kyle.unity
     guid: 0afaa08395387564cbe76675b2ebdab4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/BallShooter_05_Kyle.unity
     guid: e310cca876ca93241a082881ec988dec
   m_configObjects: {}
